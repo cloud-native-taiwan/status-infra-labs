@@ -3,7 +3,7 @@ owner: cloud-native-taiwan # Your GitHub organization or username, where this re
 repo: status-infra-labs # The name of this repository
 
 sites:
-  - name: Openstack
+  - name: OpenStack
     url: https://openstack.cloudnative.tw
 
 status-website:
