@@ -1,20 +1,20 @@
 [
   {
-    "name": "Openstack",
+    "name": "OpenStack",
     "url": "https://openstack.cloudnative.tw",
     "icon": "https://icons.duckduckgo.com/ip3/openstack.cloudnative.tw.ico",
-    "slug": "openstack",
+    "slug": "open-stack",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 739,
-    "timeDay": 793,
-    "timeWeek": 727,
-    "timeMonth": 739,
-    "timeYear": 739,
+    "time": 561,
+    "timeDay": 561,
+    "timeWeek": 561,
+    "timeMonth": 561,
+    "timeYear": 561,
     "dailyMinutesDown": {}
   }
 ]
