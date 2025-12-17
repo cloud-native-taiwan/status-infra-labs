@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/openstack.cloudnative.tw.ico",
     "slug": "open-stack",
     "status": "up",
-    "uptime": "99.16%",
+    "uptime": "99.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.32%",
     "uptimeYear": "99.44%",
     "time": 809,
-    "timeDay": 828,
-    "timeWeek": 767,
-    "timeMonth": 708,
+    "timeDay": 872,
+    "timeWeek": 776,
+    "timeMonth": 716,
     "timeYear": 811,
     "dailyMinutesDown": {
       "2025-12-07": 32,
@@ -25,8 +25,7 @@
       "2025-07-22": 70,
       "2025-04-23": 119,
       "2025-02-17": 38,
-      "2025-01-23": 181,
-      "2024-12-17": 9
+      "2025-01-23": 181
     }
   }
 ]
