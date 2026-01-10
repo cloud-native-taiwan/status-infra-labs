@@ -1,7 +1,7 @@
 url: https://openstack.cloudnative.tw
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-10T11:56:52.186Z
+status: up
+code: 200
+responseTime: 577
+lastUpdated: 2026-01-10T12:33:02.371Z
 startTime: 2024-04-03T11:45:51.444Z
 generator: Upptime <https://github.com/upptime/upptime>
