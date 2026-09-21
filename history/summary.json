@@ -4,7 +4,7 @@
     "url": "https://openstack.cloudnative.tw",
     "icon": "https://icons.duckduckgo.com/ip3/openstack.cloudnative.tw.ico",
     "slug": "open-stack",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 1005,
     "timeYear": 830,
     "dailyMinutesDown": {
-      "2026-07-18": 336
+      "2026-07-18": 336,
+      "2026-09-21": 0
     }
   }
 ]
